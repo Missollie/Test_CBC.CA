@@ -1,0 +1,16 @@
+// {
+// 	"folders": [
+// 		{
+// 			"path": "../9news"
+// 		},
+// 		{
+// 			"path": "../cbc.ca"
+// 		},
+// 		{
+// 			"path": "."
+// 		}
+// 	],
+// 	"settings": {
+// 		"liveServer.settings.multiRootWorkspaceName": "cbc.ca"
+// 	}
+// }
